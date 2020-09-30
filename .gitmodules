@@ -1,0 +1,3 @@
+[submodule "redirectionService_url"]
+	path = redirectionService_url
+	url = https://github.com/One-Zee/redirectionService_url.git
